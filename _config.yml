@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Nantes NLP group
 description: Home page of the Nantes Natural Language Processing group
+include: ['_pages']
